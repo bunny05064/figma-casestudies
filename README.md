@@ -1,7 +1,7 @@
 # Product Management Case Studies
 
 ## 1. Sponsogram Landing Page
-[View PDF](./Sponsogram Landing Page.pdf)
+[View PDF](./SponsogramLandingPage.pdf)
 
 ## 2. ReelRocket PRD
 [View PDF](./ReelRocket-PRD.pdf)
